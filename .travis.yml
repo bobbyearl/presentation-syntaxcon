@@ -1,0 +1,9 @@
+language: node_js
+
+branches:
+  only:
+    - master
+
+script:
+ - webpack
+ - git status
