@@ -24,9 +24,12 @@ router.get('/', function(req, res) {
     res.json({ message: 'hooray! welcome to our api!' });   
 });
 
+// I added these two endpoints
 router.get('/hello/:name', function(req, res) {
     res.json({ message: 'hello ' + req.params.name });
 });
+
+app.use(express.static('docs'));
 
 // more routes for our API will happen here
 
