@@ -1,2 +1,2 @@
 [config]
-command = npm i -g kuduscript && npm i && npm run build && kuduscript -y --node --no-dot-deployment && bash deploy.sh
+command = npm i -g kuduscript && npm i && npm run build && kuduscript -y -t bash --node --no-dot-deployment && bash ./deploy.sh
