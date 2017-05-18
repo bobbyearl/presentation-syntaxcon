@@ -1,2 +1,2 @@
 [config]
-command = npm install && npm run build && "$KUDU_SYNC_CMD" -v 500 -f "$DEPLOYMENT_SOURCE/$STACHE_BUILD_DIRECTORY" -t "$DEPLOYMENT_TARGET" -n "$NEXT_MANIFEST_PATH" -p "$PREVIOUS_MANIFEST_PATH" -i ".git;.hg;.deployment;deploy.sh"
+command = npm i -g kuduscript && npm i && npm run build && kuduscript -y --node --no-dot-deployment && deploy.sh
