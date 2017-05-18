@@ -1,0 +1,137 @@
+<div class="reveal2">
+  <div class="slides2">
+
+  <section>
+    <h2>Ready, Set, Release</h2>
+    <h3>SyntaxCon - Bobby Earl</h3>
+  </section>
+
+  <section>
+    <h2>Agenda</h2>
+    <ul>
+      <li class="fragment">Introductions</li>
+      <li class="fragment">Fundamentals</li>
+      <li class="fragment">Demo</li>
+      <li class="fragment">Questions</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>About Me</h2>
+  </section>
+
+  <section>
+    <ul>
+      <li class="fragment">Staff Software Engineer at Blackbaud for 4 years</li>
+      <li class="fragment">Father of 3 with a 4th due in July</li>
+      <li class="fragment">Love building LEGO</li>
+      <li class="fragment">First website was on Geocities and contained nothing but profanity</li>
+    </ul>
+  </section>
+  
+  <section>
+    <img src="assets/img/about.jpg" alt="" class="stretch" />
+  </section>
+
+  <section>
+    <h2>My Work</h2>
+  </section>
+
+  <section>
+    <ul>
+      <li class="fragment">Contribute to the Open Source community</li>
+      <li class="fragment">Create UX framework</li>
+      <li class="fragment">Create CLI to automate app/docs creation</li>
+      <li class="fragment">Automate build processes</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Show of Hands</h2>
+    <p>Anyone guilty of manual deployments?</p>
+    <p><small>(Remember to shamefully raise your hand Bobby)</small></p>
+  </section>
+
+  <section>
+    <h2>Consistency is Key!</h2>
+    <p>Automate to drive consistency, reliability, and security.</p>
+  </section>
+
+  <section>
+    <h2>Services</h2>
+    <ul>
+      <li class="fragment">GitHub Pages</li>
+      <li class="fragment">Travis CI</li>
+      <li class="fragment">Azure App Services</li>
+    </ul>
+  </section>
+
+  <section>
+    <p>Each service has many alternatives.</p>
+    <p>AWS, Heroku, CircleCI, Jenkins, VSTS</p>
+    <p>Focus on required features.</p>
+  </section>
+
+  <section>
+    <h2>GitHub Pages</h2>
+    <p>Websites for you and your projects.</p>
+    <p>
+      <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer">
+        pages.github.com
+      </a>
+    </p>
+  </section>
+
+  <section>
+    <h2>Travis CI</h2>
+    <p>Easily sync your GitHub projects with Travis CI and you’ll be testing your code in minutes!</p>
+    <p>
+      <a href="https://travisci.org" target="_blank" rel="noopener noreferrer">
+        Travis CI
+      </a>
+    </p>
+  </section>
+
+  <section>
+    <h2>Azure App Services</h2>
+    <p>Quickly create powerful cloud apps for web and mobile clients</p>
+    <p>
+      <a href="https://azure.microsoft.com/en-us/services/app-service/" target="_blank" rel="noopener noreferrer">
+        Azure App Services
+      </a>
+    </p>
+  </section>
+
+  <section>
+    <h3>"Choose a job you love, and you will never have to work a day in your life."</h3>
+    <h4>Confucius</h4>
+    <p><img src="assets/img/bushes.gif" /></p>
+  </section>
+
+  <section>
+    <h2>Resources</h2>
+    <ul>
+      <li>
+        <a href="https://www.hanselman.com/blog/AzureAppServiceSecretsAndWebSiteHiddenGems.aspx" target="_blank" rel="noopener noreferrer">
+          Scott Hanselman - Azure App Service Secrets
+        </a>
+      </li>
+      <li>
+        <a href="https://developer.blackbaud.com/skyux2" target="_blank" rel="noopener noreferrer">
+          SKY UX - Blackbaud UX Framework
+        </a>
+      </li>
+      <li>
+        <a href="https://developer.blackbaud.com/stache" target="_blank" rel="noopener noreferrer">
+          Stache - Blackbaud Documentation Framework
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/hakimel/reveal.js" target="_blank" rel="noopener noreferrer">
+          Reveal.js - Presentation tool
+        </a>
+      </li>
+    </section>
+
+  </div>
+</div>
