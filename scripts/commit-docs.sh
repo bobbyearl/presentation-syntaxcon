@@ -11,7 +11,7 @@ if [[ "$TRAVIS_PULL_REQUEST" == "false" ]]; then
   # Copy our "built" files into our clone and add them
   cp -rf docs/ syntaxcon/
   cd syntaxcon
-  git add syntaxcon/
+  git add docs/
 
   # Make sure there are any changes.
   # git commit will fail if there are no changes
